@@ -16,7 +16,7 @@
 * [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
-* [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
+* [Microlaunch](https://microlaunch.net) – Daily launch platform for micro-SaaS and indie products. Quick approval, active community.
 * [Nick Launches](https://nicklaunches.com) – Launch platform for builders — get discovered and earn a dofollow backlink.
 * [ScrollLaunch](https://scrolllaunch.com) – Weekly product leaderboard with DR backlinks. Indie makers launch and earn visibility.
 * [Launching Next](https://launchingnext.com) – List your project for free exposure.
