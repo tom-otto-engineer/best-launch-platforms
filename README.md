@@ -7,7 +7,7 @@
 
 ---
 
-**More launch directories on [Launch Llama Tools](https://tools.launchllama.co/tools/launch-directories)** — Browse **600+ startup directories** with live DR scores, dofollow filters, and submission guides. [Submit your product →](https://tools.launchllama.co/submit)
+**[Launch Llama](https://tools.launchllama.co)** is the full distribution stack — **55k+ newsletter** subscribers, **manual submission to 200+ backlinks**, and **directory traffic**. [Submit your product →](https://tools.launchllama.co/submit)
 
 ---
 
