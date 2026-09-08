@@ -15,10 +15,9 @@
 
 * [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
 * [Product Hunt](https://www.producthunt.com) – The go-to platform for launching tech products and startups.
-* [Altern](https://altern.ai) – AI product directory for makers.
-* [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
-* [Betapage](https://betapage.co) – Discover and launch new startups daily.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
+* [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
+* [Nick Launches](https://nicklaunches.com) – Launch platform for builders — get discovered and earn a dofollow backlink.
 * [Launching Next](https://launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
