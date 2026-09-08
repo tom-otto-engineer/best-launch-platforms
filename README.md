@@ -1,6 +1,13 @@
 # Awesome Launch Platforms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
+<!-- topics: launch, launch-platforms, producthunt, indiehackers, startups, side-project, awesome-list -->
+
 > Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.
+
+---
+
+**More launch directories on [Launch Llama Tools](https://tools.launchllama.co/tools/launch-directories)** — Browse **600+ startup directories** with live DR scores, dofollow filters, and submission guides. [Submit your product →](https://tools.launchllama.co/submit)
 
 ---
 
@@ -11,7 +18,7 @@
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
-* [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
+* [Launching Next](https://launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
 
@@ -40,11 +47,10 @@
 * [AI Directory](https://aidirectory.wiki) - The Best AI Tools List
 * [AI Dir](https://aidir.wiki) - First AI Directory of the world!
 * [uNeed](https://uneed.best) – Discover and share AI tools.
-* [There’s An AI For That](https://theresanai.com) – Submit your AI product for discovery.
+* [There's An AI For That](https://theresanai.com) – Submit your AI product for discovery.
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
-
 
 ---
 
@@ -53,7 +59,7 @@
 * [Startuplist Africa](https://startuplist.africa) – Discover and launch African startups.
 * [Side Projectors](https://www.sideprojectors.com) – Promote and even sell your side project.
 * [Remote Tools](https://www.remote.tools) – Focused on tools for remote workers and teams.
-* [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools. 
+* [ToolFinder](https://toolfinder.wiki) - Discover & browse thousands of productivity tools.
 
 ---
 
@@ -68,7 +74,7 @@
 
 ## 🤝 Contributions
 
-Contributions welcome! Open a [pull request](https://github.com/DirectorySurf/awesome-launch-platforms/pulls) or [issue](https://github.com/DirectorySurf/awesome-launch-platforms/issues) to add more launch platforms.
+Contributions welcome! Open a [pull request](https://github.com/tom-otto-engineer/awesome-launch-platforms/pulls) or [issue](https://github.com/tom-otto-engineer/awesome-launch-platforms/issues) to add more launch platforms.
 
 ---
 
