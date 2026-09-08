@@ -1,4 +1,4 @@
-# Awesome Launch Platforms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Best Launch Platforms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 <!-- topics: launch, launch-platforms, producthunt, indiehackers, startups, side-project, awesome-list -->
@@ -75,7 +75,7 @@
 
 ## 🤝 Contributions
 
-Contributions welcome! Open a [pull request](https://github.com/tom-otto-engineer/awesome-launch-platforms/pulls) or [issue](https://github.com/tom-otto-engineer/awesome-launch-platforms/issues) to add more launch platforms.
+Contributions welcome! Open a [pull request](https://github.com/tom-otto-engineer/best-launch-platforms/pulls) or [issue](https://github.com/tom-otto-engineer/best-launch-platforms/issues) to add more launch platforms.
 
 ---
 
