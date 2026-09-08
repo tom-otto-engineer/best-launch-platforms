@@ -18,6 +18,7 @@
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
 * [BetaList](https://betalist.com) – Launch your startup to get early feedback from early adopters.
 * [Nick Launches](https://nicklaunches.com) – Launch platform for builders — get discovered and earn a dofollow backlink.
+* [ScrollLaunch](https://scrolllaunch.com) – Weekly product leaderboard with DR backlinks. Indie makers launch and earn visibility.
 * [Launching Next](https://launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
