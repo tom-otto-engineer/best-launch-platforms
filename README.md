@@ -50,6 +50,7 @@
 * [uNeed](https://uneed.best) – Discover and share AI tools.
 * [There's An AI For That](https://theresanai.com) – Submit your AI product for discovery.
 * [Futurepedia](https://futurepedia.wiki) – AI tools aggregator with launch listings.
+* [Public Prompts](https://www.publicprompts.art/) - Curated AI-tools directory. [Owner submissions](https://www.publicprompts.art/submit) cost US$19.99 once plus tax before review; published tool links are nofollow.
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
