@@ -22,6 +22,7 @@
 * [Launching Next](https://launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
+* [MEDIAPRONET](https://mediapronet.com/) – A curated directory where founders list new startups, SaaS tools and indie products.
 
 ---
 
